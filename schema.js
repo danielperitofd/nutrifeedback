@@ -38,11 +38,11 @@ window.NF_SCHEMA = {
       ],
       "kind": "radio",
       "scope": "ambos",
-      "hint": "Escolha uma refeição. No diagnóstico, pense nos últimos cinco dias letivos e use essa refeição como referência."
+      "hint": "Escolha uma refeição. No diagnóstico, pense nos últimos dias e use essa refeição como referência."
     },
     {
       "key": "frequencia",
-      "title": "Nos últimos cinco dias letivos em que esteve na escola, com que frequência você consumiu essa refeição?",
+      "title": "Nos últimos dias em que esteve na escola, com que frequência você consumiu essa refeição?",
       "options": [
         "Todos ou quase todos os dias",
         "Alguns dias",
